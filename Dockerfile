@@ -27,8 +27,6 @@ RUN rm /etc/nginx/conf.d/default.conf
 # Copy SPA-safe Nginx config
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-# Generate runtime env-config.js from container env vars.
-COPY --chmod=755 docker-entrypoint.d/40-env-config.sh /docker-entrypoint.d/40-env-config.sh
 
 # Copy only the built assets
 COPY --from=builder /app/dist /usr/share/nginx/html
