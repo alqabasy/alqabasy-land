@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#F9F7F2"/>
+<circle cx="910" cy="318" r="265" fill="#EEE4D5"/>
+<path d="M715 315c-85-166-190-130-190-28 0 95 123 144 199 8 83-147 178-177 253-112 83 72 20 220-82 206-72-9-112-83-152-157" fill="none" stroke="#B77855" stroke-width="65" stroke-linecap="round" opacity=".9"/>
+<rect x="74" y="65" width="65" height="65" rx="18" fill="#A76645"/>
+<path d="M113 87a20 20 0 1 0 0 28m-8-10 14 14" stroke="#FFF9F2" stroke-width="6" fill="none" stroke-linecap="round"/>
+<text x="74" y="281" font-size="64" font-weight="700" fill="#283830" font-family="Arial,sans-serif">AL-QABASY</text>
+<text x="74" y="333" font-size="25" letter-spacing="8" fill="#A76645" font-family="Arial,sans-serif">TRADING COMPANY</text>
+<path d="M74 376h390" stroke="#BDB8AD"/>
+<text x="74" y="450" font-size="28" fill="#66716A" font-family="Arial,sans-serif">Rooted in trade.</text>
+<text x="74" y="489" font-size="28" fill="#66716A" font-family="Arial,sans-serif">Driven to build.</text>
+</svg>

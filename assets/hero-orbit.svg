@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 650" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Two connected worlds, trade and technology</title><desc id="desc">Original abstract illustration of an interconnected copper loop and green loop on warm ivory paper.</desc>
+<defs>
+ <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#A8A48F" opacity=".24"/></pattern>
+ <linearGradient id="copper" x1="129" y1="144" x2="522" y2="521" gradientUnits="userSpaceOnUse"><stop stop-color="#D2A17D"/><stop offset=".53" stop-color="#B66F4D"/><stop offset="1" stop-color="#8B4F36"/></linearGradient>
+ <linearGradient id="olive" x1="426" y1="120" x2="187" y2="522" gradientUnits="userSpaceOnUse"><stop stop-color="#718B7E"/><stop offset=".55" stop-color="#456759"/><stop offset="1" stop-color="#24463B"/></linearGradient>
+ <filter id="shadow" x="0" y="0" width="660" height="650" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="26" stdDeviation="19" flood-color="#7B674E" flood-opacity=".13"/></filter>
+</defs>
+<rect x="13" y="11" width="634" height="629" rx="248" fill="#F0E8DA"/>
+<rect x="13" y="11" width="634" height="629" rx="248" fill="url(#dots)"/>
+<circle cx="330" cy="326" r="236" stroke="#D8CCB9" stroke-width="1"/>
+<circle cx="330" cy="326" r="278" stroke="#D8CCB9" stroke-width="1" stroke-dasharray="4 10"/>
+<g filter="url(#shadow)">
+ <path d="M324 300C273 198 192 173 139 221c-57 52-37 158 17 198 55 40 124 18 175-87l16-33c53-103 124-116 180-65 55 51 49 132-4 177-55 47-135 19-185-80" stroke="#F7EDE0" stroke-width="91" stroke-linejoin="round" stroke-linecap="round"/>
+ <path d="M324 300C273 198 192 173 139 221c-57 52-37 158 17 198 55 40 124 18 175-87" stroke="url(#copper)" stroke-width="72" stroke-linejoin="round" stroke-linecap="round"/>
+ <path d="M347 299c53-103 124-116 180-65 55 51 49 132-4 177-55 47-135 19-185-80" stroke="url(#olive)" stroke-width="72" stroke-linejoin="round" stroke-linecap="round"/>
+ <path d="M324 300C273 198 192 173 139 221c-57 52-37 158 17 198 55 40 124 18 175-87" stroke="#F9F0E5" stroke-width="2" opacity=".58" stroke-linecap="round"/>
+ <path d="M347 299c53-103 124-116 180-65 55 51 49 132-4 177-55 47-135 19-185-80" stroke="#F9F0E5" stroke-width="2" opacity=".5" stroke-linecap="round"/>
+</g>
+<circle cx="330" cy="326" r="32" fill="#FEFCF7" stroke="#D9D0C2"/>
+<path d="m317 328 10 10 19-22" stroke="#A76645" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="105" cy="168" r="5" fill="#AD744D"/><circle cx="552" cy="481" r="5" fill="#426655"/><path d="M105 168v-46h83" stroke="#C5AC95" stroke-width="1.5" stroke-dasharray="4 5"/><path d="M552 481v47h-93" stroke="#9BAF9F" stroke-width="1.5" stroke-dasharray="4 5"/>
+<path d="m97 508 5-14 5 14 14 5-14 5-5 14-5-14-14-5 14-5Z" fill="#C79971" opacity=".65"/>
+<path d="m557 129 4-11 4 11 11 4-11 4-4 11-4-11-11-4 11-4Z" fill="#86A28D" opacity=".85"/>
+</svg>
