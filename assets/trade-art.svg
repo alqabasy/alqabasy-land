@@ -1,18 +1,26 @@
-<svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 580 420" fill="none" role="img" aria-labelledby="title"><title id="title">Abstract trading objects and package shapes</title>
-<defs><linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C88B65"/><stop offset="1" stop-color="#A86644"/></linearGradient></defs>
-<circle cx="284" cy="200" r="167" fill="#F4E7D8"/>
-<path d="M64 324h461" stroke="#D9BA9E" stroke-width="2"/>
-<path d="m111 153 103-41 103 41-103 43-103-43Z" fill="#D9A77E"/>
-<path d="m111 153 103 43v121l-103-43V153Z" fill="#A56848"/>
-<path d="m214 196 103-43v121l-103 43V196Z" fill="#BE8360"/>
-<path d="m214 196 103-43" stroke="#F6D3AF" stroke-width="2"/>
-<path d="m244 181 0 122" stroke="#E7B58B" stroke-width="3" opacity=".6"/>
-<path d="m288 162 0 123" stroke="#E7B58B" stroke-width="3" opacity=".6"/>
-<path d="m318 217 85-34 85 35-85 35-85-36Z" fill="#E5B798"/>
-<path d="m318 217 85 36v74l-85-36v-74Z" fill="#BF805E"/>
-<path d="m403 253 85-35v74l-85 35v-74Z" fill="#A96D50"/>
-<rect x="336" y="258" width="27" height="3" rx="1.5" transform="rotate(22 336 258)" fill="#F9E6D0"/>
-<path d="m159 87 7-18 7 18 18 7-18 7-7 18-7-18-18-7 18-7Z" fill="#C08A64" opacity=".6"/>
-<path d="M391 104h81M430 78v53" stroke="#C38C68" stroke-width="1.5" opacity=".5"/>
-<circle cx="472" cy="84" r="10" stroke="#C38C68"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 420" fill="none" role="img"
+    aria-labelledby="title">
+    <title id="title">Abstract trading objects and package shapes</title>
+    <defs>
+        <linearGradient id="p" x1="0" y1="0" x2="1" y2="1">
+            <stop stop-color="#C88B65" />
+            <stop offset="1" stop-color="#A86644" />
+        </linearGradient>
+    </defs>
+    <circle cx="284" cy="200" r="167" fill="#F4E7D8" />
+    <path d="M64 324h461" stroke="#D9BA9E" stroke-width="2" />
+    <path d="m111 153 103-41 103 41-103 43-103-43Z" fill="#D9A77E" />
+    <path d="m111 153 103 43v121l-103-43V153Z" fill="#A56848" />
+    <path d="m214 196 103-43v121l-103 43V196Z" fill="#BE8360" />
+    <path d="m214 196 103-43" stroke="#F6D3AF" stroke-width="2" />
+    <path d="m244 181 0 122" stroke="#E7B58B" stroke-width="3" opacity=".6" />
+    <path d="m288 162 0 123" stroke="#E7B58B" stroke-width="3" opacity=".6" />
+    <path d="m318 217 85-34 85 35-85 35-85-36Z" fill="#E5B798" />
+    <path d="m318 217 85 36v74l-85-36v-74Z" fill="#BF805E" />
+    <path d="m403 253 85-35v74l-85 35v-74Z" fill="#A96D50" />
+    <rect x="336" y="258" width="27" height="3" rx="1.5" transform="rotate(22 336 258)"
+        fill="#F9E6D0" />
+    <path d="m159 87 7-18 7 18 18 7-18 7-7 18-7-18-18-7 18-7Z" fill="#C08A64" opacity=".6" />
+    <path d="M391 104h81M430 78v53" stroke="#C38C68" stroke-width="1.5" opacity=".5" />
+    <circle cx="472" cy="84" r="10" stroke="#C38C68" />
 </svg>

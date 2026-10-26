@@ -1,20 +1,28 @@
-<svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 580 420" fill="none" role="img" aria-labelledby="title"><title id="title">Connected software design architecture illustration</title>
-<circle cx="289" cy="205" r="168" fill="#E1ECE4"/>
-<rect x="120" y="95" width="335" height="227" rx="21" fill="#2C5748"/>
-<rect x="133" y="108" width="309" height="201" rx="13" fill="#FDFDF8"/>
-<path d="M133 141h309" stroke="#DCE7DE" stroke-width="2"/>
-<circle cx="155" cy="125" r="4" fill="#DDB38C"/><circle cx="168" cy="125" r="4" fill="#BFD4C7"/><circle cx="181" cy="125" r="4" fill="#BFD4C7"/>
-<rect x="154" y="159" width="72" height="132" rx="8" fill="#EDF3EE"/>
-<path d="M167 176h45M167 193h32M167 210h45M167 227h24" stroke="#89A99A" stroke-width="6" stroke-linecap="round"/>
-<rect x="245" y="159" width="178" height="61" rx="9" fill="#E6EFE8"/>
-<path d="m267 199 37-18 35 10 39-23 24 9" stroke="#3D7460" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="304" cy="181" r="5" fill="#B97953"/><circle cx="378" cy="168" r="5" fill="#B97953"/>
-<rect x="245" y="231" width="81" height="59" rx="9" fill="#F6EBDD"/>
-<rect x="338" y="231" width="85" height="59" rx="9" fill="#E6EFE8"/>
-<path d="M260 270h51M260 254h38" stroke="#CCA789" stroke-width="5" stroke-linecap="round"/>
-<path d="M352 270h53M352 254h34" stroke="#93B3A0" stroke-width="5" stroke-linecap="round"/>
-<rect x="230" y="321" width="112" height="8" rx="4" fill="#6D897C"/><path d="M193 333h193" stroke="#AFC9BA" stroke-width="7" stroke-linecap="round"/>
-<path d="m84 186 7-19 7 19 19 7-19 7-7 19-7-19-19-7 19-7Z" fill="#8FB6A0" opacity=".8"/>
-<circle cx="495" cy="123" r="14" fill="#E8CAA3"/>
-<path d="M495 104v-10M495 152v-10M476 123h-10M524 123h-10" stroke="#CDA77E" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 420" fill="none" role="img"
+    aria-labelledby="title">
+    <title id="title">Connected software design architecture illustration</title>
+    <circle cx="289" cy="205" r="168" fill="#E1ECE4" />
+    <rect x="120" y="95" width="335" height="227" rx="21" fill="#2C5748" />
+    <rect x="133" y="108" width="309" height="201" rx="13" fill="#FDFDF8" />
+    <path d="M133 141h309" stroke="#DCE7DE" stroke-width="2" />
+    <circle cx="155" cy="125" r="4" fill="#DDB38C" />
+    <circle cx="168" cy="125" r="4" fill="#BFD4C7" />
+    <circle cx="181" cy="125" r="4" fill="#BFD4C7" />
+    <rect x="154" y="159" width="72" height="132" rx="8" fill="#EDF3EE" />
+    <path d="M167 176h45M167 193h32M167 210h45M167 227h24" stroke="#89A99A" stroke-width="6"
+        stroke-linecap="round" />
+    <rect x="245" y="159" width="178" height="61" rx="9" fill="#E6EFE8" />
+    <path d="m267 199 37-18 35 10 39-23 24 9" stroke="#3D7460" stroke-width="4"
+        stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="304" cy="181" r="5" fill="#B97953" />
+    <circle cx="378" cy="168" r="5" fill="#B97953" />
+    <rect x="245" y="231" width="81" height="59" rx="9" fill="#F6EBDD" />
+    <rect x="338" y="231" width="85" height="59" rx="9" fill="#E6EFE8" />
+    <path d="M260 270h51M260 254h38" stroke="#CCA789" stroke-width="5" stroke-linecap="round" />
+    <path d="M352 270h53M352 254h34" stroke="#93B3A0" stroke-width="5" stroke-linecap="round" />
+    <rect x="230" y="321" width="112" height="8" rx="4" fill="#6D897C" />
+    <path d="M193 333h193" stroke="#AFC9BA" stroke-width="7" stroke-linecap="round" />
+    <path d="m84 186 7-19 7 19 19 7-19 7-7 19-7-19-19-7 19-7Z" fill="#8FB6A0" opacity=".8" />
+    <circle cx="495" cy="123" r="14" fill="#E8CAA3" />
+    <path d="M495 104v-10M495 152v-10M476 123h-10M524 123h-10" stroke="#CDA77E" stroke-width="2" />
 </svg>
