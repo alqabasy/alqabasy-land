@@ -4,7 +4,7 @@ A bespoke bilingual, Arabic-first landing page for **AL-QABASY Trading Company**
 
 ## Run
 
-Open `index.html` in any modern browser. No installation, compilation, backend, or external assets required. Optional: serve with `python -m http.server 8080` and open `http://localhost:8080`.
+Open `index.html` in any modern browser. No installation, compilation, backend, or external assets required. Optional: serve with `python -m http.server 8080` and open `https://localhost:8080`.
 
 ## Files
 
